@@ -1,0 +1,14 @@
+html {
+    background-color:aliceblue;
+
+}
+html {
+    background-image: url("winter.jpg");
+
+}
+fieldset {
+    background-color: aliceblue;
+}
+#snowman {
+    height: 200px;  width: 200px; float:right;
+}
